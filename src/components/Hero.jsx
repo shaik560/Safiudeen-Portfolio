@@ -1,5 +1,5 @@
 import ArrowButton from "./ArrowButton";
-import heroBackground from "../assets/hero-background.webp";
+import heroBackground from "../assets/hero-background.png";
 import heroGlow from "../assets/hero-glow.svg";
 
 const BADGES = [

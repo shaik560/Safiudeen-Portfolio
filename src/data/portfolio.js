@@ -1,6 +1,6 @@
 import figmaLogo from "../assets/tools/figma.svg";
 import framerLogo from "../assets/tools/framer.png";
-import wixLogo from "../assets/tools/wixstudio.png";
+import wixLogo from "../assets/tools/wix.png";
 import wordpressLogo from "../assets/tools/wordpress.png";
 import lovableLogo from "../assets/tools/lovable.png";
 import miroLogo from "../assets/tools/miro.png";
