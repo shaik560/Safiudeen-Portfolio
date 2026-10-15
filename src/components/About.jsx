@@ -1,6 +1,6 @@
 import ArrowButton from "./ArrowButton";
 import aboutBlob from "../assets/about-blob.svg";
-import portrait from "../assets/portrait.png";
+import portrait from "../assets/profile-portrait.png";
 
 export default function About() {
   return (
